@@ -1,0 +1,5 @@
+sqlite3
+ttkbootstrap
+matplotlib
+fpdf2
+pandas 
